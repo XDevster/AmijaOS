@@ -5,8 +5,8 @@ Amija OS --- System for opencomputers with custom kernel and with custom GUI api
 
 # Developers
 
-matveymayner https://github.com/matvey-mayner
-Snus https://github.com/super-snus
-DanXvo https://github.com/DanXvoIsMe
-Logic https://github.com/igorkll
-gamma63 https://github.com/gamma63
+matveymayner https://github.com/matvey-mayner<br>
+Snus https://github.com/super-snus<br>
+DanXvo https://github.com/DanXvoIsMe<br>
+Logic https://github.com/igorkll<br>
+gamma63 https://github.com/gamma63<br>
